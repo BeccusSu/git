@@ -1,0 +1,18 @@
+1.下载代码：
+	git clone +网址
+2.加到git：
+	git add .（这里添加所有文件到git暂存区）
+3.加到本地仓库：
+	git commit -m（将暂存区转移到本地仓库）
+4.仓库：
+	git init
+5.上传：
+	git remote add origin +网址
+	git push -u origin "master"
+6.如果有了origin：
+	git remote rm origin
+7.如果出现error: failed to push some refs ：
+
+8.上传需要上传一个分支branch：
+	git push 【远程仓库名字】
+	
